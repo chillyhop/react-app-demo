@@ -8,7 +8,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           
-          React app demo
+          React app demo.
 
         </p>
         <a
